@@ -12,7 +12,6 @@ const map = new mapboxgl.Map({
 
 new mapboxgl.Marker().setLngLat(center).addTo(map);
 
-map.getActiveAttrib()
 
 function toggleSidebar(id) {
     const elem = document.getElementById(id);
