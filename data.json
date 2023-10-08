@@ -1,0 +1,3948 @@
+{
+    "Water": [
+        {
+            "Point": [
+                12.809694,
+                76.205642
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 140
+        },
+        {
+            "Point": [
+                22.915326,
+                72.515828
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 1600
+        },
+        {
+            "Point": [
+                22.915326,
+                72.515828
+            ],
+            "Data": "pH",
+            "Value": 7.29
+        },
+        {
+            "Point": [
+                22.915326,
+                72.515828
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 43
+        },
+        {
+            "Point": [
+                16.640864,
+                74.821308
+            ],
+            "Data": "pH",
+            "Value": 8.26
+        },
+        {
+            "Point": [
+                16.640864,
+                74.821308
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                16.640864,
+                74.821308
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 350
+        },
+        {
+            "Point": [
+                16.640864,
+                74.821308
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 940
+        },
+        {
+            "Point": [
+                16.328103,
+                75.268333
+            ],
+            "Data": "pH",
+            "Value": 8.58
+        },
+        {
+            "Point": [
+                16.328103,
+                75.268333
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.5
+        },
+        {
+            "Point": [
+                16.328103,
+                75.268333
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.5
+        },
+        {
+            "Point": [
+                16.328103,
+                75.268333
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 920
+        },
+        {
+            "Point": [
+                16.328103,
+                75.268333
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 540
+        },
+        {
+            "Point": [
+                18.560303,
+                74.37332
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.5
+        },
+        {
+            "Point": [
+                18.560303,
+                74.37332
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 4.4
+        },
+        {
+            "Point": [
+                18.560303,
+                74.37332
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 8
+        },
+        {
+            "Point": [
+                18.560303,
+                74.37332
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 4
+        },
+        {
+            "Point": [
+                18.560303,
+                74.37332
+            ],
+            "Data": "pH",
+            "Value": 8.2
+        },
+        {
+            "Point": [
+                18.464553,
+                74.583576
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 4
+        },
+        {
+            "Point": [
+                18.464553,
+                74.583576
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 5.4
+        },
+        {
+            "Point": [
+                18.464553,
+                74.583576
+            ],
+            "Data": "pH",
+            "Value": 8.3
+        },
+        {
+            "Point": [
+                18.464553,
+                74.583576
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.8
+        },
+        {
+            "Point": [
+                18.464553,
+                74.583576
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 25
+        },
+        {
+            "Point": [
+                17.981764,
+                73.795456
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.2
+        },
+        {
+            "Point": [
+                17.981764,
+                73.795456
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 3.2
+        },
+        {
+            "Point": [
+                17.981764,
+                73.795456
+            ],
+            "Data": "pH",
+            "Value": 8.1
+        },
+        {
+            "Point": [
+                12.809694,
+                76.205642
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6
+        },
+        {
+            "Point": [
+                12.809694,
+                76.205642
+            ],
+            "Data": "pH",
+            "Value": 7.3
+        },
+        {
+            "Point": [
+                12.809694,
+                76.205642
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                12.809694,
+                76.205642
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 140
+        },
+        {
+            "Point": [
+                12.809694,
+                76.205642
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6
+        },
+        {
+            "Point": [
+                12.809694,
+                76.205642
+            ],
+            "Data": "pH",
+            "Value": 7.3
+        },
+        {
+            "Point": [
+                22.739321,
+                72.679059
+            ],
+            "Data": "pH",
+            "Value": 7.5
+        },
+        {
+            "Point": [
+                22.739321,
+                72.679059
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.4
+        },
+        {
+            "Point": [
+                22.739321,
+                72.679059
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.2
+        },
+        {
+            "Point": [
+                22.739321,
+                72.679059
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 79
+        },
+        {
+            "Point": [
+                21.983722,
+                73.456331
+            ],
+            "Data": "pH",
+            "Value": 7.75
+        },
+        {
+            "Point": [
+                21.983722,
+                73.456331
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 23
+        },
+        {
+            "Point": [
+                21.983722,
+                73.456331
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 8.7
+        },
+        {
+            "Point": [
+                16.746155,
+                74.445716
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.5
+        },
+        {
+            "Point": [
+                16.746155,
+                74.445716
+            ],
+            "Data": "pH",
+            "Value": 7.3
+        },
+        {
+            "Point": [
+                16.746155,
+                74.445716
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                16.746155,
+                74.445716
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 6
+        },
+        {
+            "Point": [
+                19.485317,
+                75.370099
+            ],
+            "Data": "pH",
+            "Value": 8.8
+        },
+        {
+            "Point": [
+                19.485317,
+                75.370099
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.2
+        },
+        {
+            "Point": [
+                19.485317,
+                75.370099
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 4.4
+        },
+        {
+            "Point": [
+                21.546291,
+                74.466807
+            ],
+            "Data": "pH",
+            "Value": 7.94
+        },
+        {
+            "Point": [
+                21.546291,
+                74.466807
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.8
+        },
+        {
+            "Point": [
+                21.546291,
+                74.466807
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 2
+        },
+        {
+            "Point": [
+                21.546291,
+                74.466807
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 490
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "pH",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.3
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 100
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 490
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "pH",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.3
+        },
+        {
+            "Point": [
+                9.395686,
+                76.640564
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 100
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 100
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.8
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 580
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.7
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 100
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.8
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 580
+        },
+        {
+            "Point": [
+                9.492842,
+                76.749125
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.7
+        },
+        {
+            "Point": [
+                23.031314,
+                72.575114
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 1600
+        },
+        {
+            "Point": [
+                23.031314,
+                72.575114
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 43
+        },
+        {
+            "Point": [
+                23.031314,
+                72.575114
+            ],
+            "Data": "pH",
+            "Value": 7.29
+        },
+        {
+            "Point": [
+                15.74629,
+                73.899494
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                15.74629,
+                73.899494
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 921
+        },
+        {
+            "Point": [
+                15.74629,
+                73.899494
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 230
+        },
+        {
+            "Point": [
+                15.74629,
+                73.899494
+            ],
+            "Data": "pH",
+            "Value": 7.21
+        },
+        {
+            "Point": [
+                15.561455,
+                73.990584
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 230
+        },
+        {
+            "Point": [
+                15.561455,
+                73.990584
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 8
+        },
+        {
+            "Point": [
+                15.561455,
+                73.990584
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.6
+        },
+        {
+            "Point": [
+                15.561455,
+                73.990584
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 121
+        },
+        {
+            "Point": [
+                15.561455,
+                73.990584
+            ],
+            "Data": "pH",
+            "Value": 6.84
+        },
+        {
+            "Point": [
+                15.536364,
+                74.148515
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 431
+        },
+        {
+            "Point": [
+                15.536364,
+                74.148515
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                15.536364,
+                74.148515
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 1700
+        },
+        {
+            "Point": [
+                15.536364,
+                74.148515
+            ],
+            "Data": "pH",
+            "Value": 6.74
+        },
+        {
+            "Point": [
+                15.615148,
+                73.900658
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 13
+        },
+        {
+            "Point": [
+                15.615148,
+                73.900658
+            ],
+            "Data": "pH",
+            "Value": 6.79
+        },
+        {
+            "Point": [
+                15.615148,
+                73.900658
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.1
+        },
+        {
+            "Point": [
+                15.615148,
+                73.900658
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 12
+        },
+        {
+            "Point": [
+                16.5575,
+                74.679717
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.1
+        },
+        {
+            "Point": [
+                16.5575,
+                74.679717
+            ],
+            "Data": "pH",
+            "Value": 8.33
+        },
+        {
+            "Point": [
+                16.5575,
+                74.679717
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 540
+        },
+        {
+            "Point": [
+                16.5575,
+                74.679717
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 350
+        },
+        {
+            "Point": [
+                16.688467,
+                74.169462
+            ],
+            "Data": "pH",
+            "Value": 7.6
+        },
+        {
+            "Point": [
+                16.688467,
+                74.169462
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                16.688467,
+                74.169462
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                16.688467,
+                74.169462
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 6
+        },
+        {
+            "Point": [
+                22.698111,
+                75.810953
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.1
+        },
+        {
+            "Point": [
+                22.698111,
+                75.810953
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 404
+        },
+        {
+            "Point": [
+                22.698111,
+                75.810953
+            ],
+            "Data": "Total Coliform",
+            "Value": 48
+        },
+        {
+            "Point": [
+                22.698111,
+                75.810953
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 0.01
+        },
+        {
+            "Point": [
+                22.698111,
+                75.810953
+            ],
+            "Data": "pH",
+            "Value": 7.6
+        },
+        {
+            "Point": [
+                22.698111,
+                75.810953
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                19.478228,
+                75.384879
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.3
+        },
+        {
+            "Point": [
+                19.478228,
+                75.384879
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 5.6
+        },
+        {
+            "Point": [
+                19.478228,
+                75.384879
+            ],
+            "Data": "pH",
+            "Value": 8.72
+        },
+        {
+            "Point": [
+                19.467269,
+                75.397267
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.5
+        },
+        {
+            "Point": [
+                19.467269,
+                75.397267
+            ],
+            "Data": "pH",
+            "Value": 8.86
+        },
+        {
+            "Point": [
+                19.467269,
+                75.397267
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.6
+        },
+        {
+            "Point": [
+                19.360024,
+                75.709583
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 4.6
+        },
+        {
+            "Point": [
+                19.360024,
+                75.709583
+            ],
+            "Data": "pH",
+            "Value": 8.57
+        },
+        {
+            "Point": [
+                19.360024,
+                75.709583
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.3
+        },
+        {
+            "Point": [
+                16.721492,
+                74.594819
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 6
+        },
+        {
+            "Point": [
+                16.721492,
+                74.594819
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                16.721492,
+                74.594819
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                16.721492,
+                74.594819
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7
+        },
+        {
+            "Point": [
+                17.732719,
+                73.991512
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.2
+        },
+        {
+            "Point": [
+                17.732719,
+                73.991512
+            ],
+            "Data": "pH",
+            "Value": 8.3
+        },
+        {
+            "Point": [
+                17.732719,
+                73.991512
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 3.4
+        },
+        {
+            "Point": [
+                17.732719,
+                73.991512
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 5
+        },
+        {
+            "Point": [
+                17.688548,
+                74.063324
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 4.6
+        },
+        {
+            "Point": [
+                17.688548,
+                74.063324
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 5
+        },
+        {
+            "Point": [
+                17.688548,
+                74.063324
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 10
+        },
+        {
+            "Point": [
+                17.688548,
+                74.063324
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.9
+        },
+        {
+            "Point": [
+                17.688548,
+                74.063324
+            ],
+            "Data": "pH",
+            "Value": 8.3
+        },
+        {
+            "Point": [
+                17.949284,
+                73.891316
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 5.4
+        },
+        {
+            "Point": [
+                17.949284,
+                73.891316
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 9
+        },
+        {
+            "Point": [
+                17.949284,
+                73.891316
+            ],
+            "Data": "pH",
+            "Value": 8.3
+        },
+        {
+            "Point": [
+                17.949284,
+                73.891316
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 4
+        },
+        {
+            "Point": [
+                17.949284,
+                73.891316
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.5
+        },
+        {
+            "Point": [
+                18.074797,
+                73.420905
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                18.074797,
+                73.420905
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 9
+        },
+        {
+            "Point": [
+                18.074797,
+                73.420905
+            ],
+            "Data": "pH",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                18.074797,
+                73.420905
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2
+        },
+        {
+            "Point": [
+                15.608275,
+                73.836869
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.9
+        },
+        {
+            "Point": [
+                15.608275,
+                73.836869
+            ],
+            "Data": "pH",
+            "Value": 7.24
+        },
+        {
+            "Point": [
+                15.608275,
+                73.836869
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 351
+        },
+        {
+            "Point": [
+                15.608275,
+                73.836869
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 230
+        },
+        {
+            "Point": [
+                15.608275,
+                73.836869
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 3.5
+        },
+        {
+            "Point": [
+                15.700331,
+                73.904347
+            ],
+            "Data": "pH",
+            "Value": 7.06
+        },
+        {
+            "Point": [
+                15.700331,
+                73.904347
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 141
+        },
+        {
+            "Point": [
+                15.700331,
+                73.904347
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7
+        },
+        {
+            "Point": [
+                15.700331,
+                73.904347
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 330
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 20
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.5
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "pH",
+            "Value": 7
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 1500
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 20
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.5
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "pH",
+            "Value": 7
+        },
+        {
+            "Point": [
+                10.542736,
+                76.178764
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 1500
+        },
+        {
+            "Point": [
+                10.600406,
+                76.48965
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 200
+        },
+        {
+            "Point": [
+                10.600406,
+                76.48965
+            ],
+            "Data": "pH",
+            "Value": 7
+        },
+        {
+            "Point": [
+                10.600406,
+                76.48965
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 8
+        },
+        {
+            "Point": [
+                10.600406,
+                76.48965
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2
+        },
+        {
+            "Point": [
+                10.600406,
+                76.48965
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 200
+        },
+        {
+            "Point": [
+                10.600406,
+                76.48965
+            ],
+            "Data": "pH",
+            "Value": 7
+        },
+        {
+            "Point": [
+                10.600406,
+                76.48965
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 8
+        },
+        {
+            "Point": [
+                10.600406,
+                76.48965
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2
+        },
+        {
+            "Point": [
+                11.444394,
+                75.728494
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 920
+        },
+        {
+            "Point": [
+                11.444394,
+                75.728494
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.5
+        },
+        {
+            "Point": [
+                11.444394,
+                75.728494
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                11.444394,
+                75.728494
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 920
+        },
+        {
+            "Point": [
+                11.444394,
+                75.728494
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.5
+        },
+        {
+            "Point": [
+                11.444394,
+                75.728494
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                12.046575,
+                75.265186
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 79
+        },
+        {
+            "Point": [
+                12.046575,
+                75.265186
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.1
+        },
+        {
+            "Point": [
+                12.046575,
+                75.265186
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 58
+        },
+        {
+            "Point": [
+                12.046575,
+                75.265186
+            ],
+            "Data": "pH",
+            "Value": 6.8
+        },
+        {
+            "Point": [
+                12.046575,
+                75.265186
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 79
+        },
+        {
+            "Point": [
+                12.046575,
+                75.265186
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.1
+        },
+        {
+            "Point": [
+                12.046575,
+                75.265186
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 58
+        },
+        {
+            "Point": [
+                12.046575,
+                75.265186
+            ],
+            "Data": "pH",
+            "Value": 6.8
+        },
+        {
+            "Point": [
+                10.902681,
+                76.406647
+            ],
+            "Data": "pH",
+            "Value": 7
+        },
+        {
+            "Point": [
+                10.902681,
+                76.406647
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 79
+        },
+        {
+            "Point": [
+                10.902681,
+                76.406647
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                10.902681,
+                76.406647
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 40
+        },
+        {
+            "Point": [
+                10.902681,
+                76.406647
+            ],
+            "Data": "pH",
+            "Value": 7
+        },
+        {
+            "Point": [
+                10.902681,
+                76.406647
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 79
+        },
+        {
+            "Point": [
+                10.902681,
+                76.406647
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                10.902681,
+                76.406647
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 40
+        },
+        {
+            "Point": [
+                12.258286,
+                75.118392
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.5
+        },
+        {
+            "Point": [
+                12.258286,
+                75.118392
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 31
+        },
+        {
+            "Point": [
+                12.258286,
+                75.118392
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 100
+        },
+        {
+            "Point": [
+                12.258286,
+                75.118392
+            ],
+            "Data": "pH",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                12.258286,
+                75.118392
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.5
+        },
+        {
+            "Point": [
+                12.258286,
+                75.118392
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 31
+        },
+        {
+            "Point": [
+                12.258286,
+                75.118392
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 100
+        },
+        {
+            "Point": [
+                12.258286,
+                75.118392
+            ],
+            "Data": "pH",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.2
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "pH",
+            "Value": 6.3
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 310
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 10
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.2
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "pH",
+            "Value": 6.3
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 310
+        },
+        {
+            "Point": [
+                10.796397,
+                76.753178
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 10
+        },
+        {
+            "Point": [
+                10.830286,
+                76.683886
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.6
+        },
+        {
+            "Point": [
+                10.830286,
+                76.683886
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 90
+        },
+        {
+            "Point": [
+                10.830286,
+                76.683886
+            ],
+            "Data": "pH",
+            "Value": 6.8
+        },
+        {
+            "Point": [
+                10.830286,
+                76.683886
+            ],
+            "Data": "Total Coliform",
+            "Value": 150
+        },
+        {
+            "Point": [
+                10.830286,
+                76.683886
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.6
+        },
+        {
+            "Point": [
+                10.830286,
+                76.683886
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 90
+        },
+        {
+            "Point": [
+                10.830286,
+                76.683886
+            ],
+            "Data": "pH",
+            "Value": 6.8
+        },
+        {
+            "Point": [
+                10.830286,
+                76.683886
+            ],
+            "Data": "Total Coliform",
+            "Value": 150
+        },
+        {
+            "Point": [
+                19.451403,
+                73.328911
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 22
+        },
+        {
+            "Point": [
+                19.451403,
+                73.328911
+            ],
+            "Data": "pH",
+            "Value": 7.1
+        },
+        {
+            "Point": [
+                19.451403,
+                73.328911
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 2
+        },
+        {
+            "Point": [
+                19.451403,
+                73.328911
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                19.451403,
+                73.328911
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 3.4
+        },
+        {
+            "Point": [
+                19.451282,
+                73.328857
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                19.451282,
+                73.328857
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 17
+        },
+        {
+            "Point": [
+                19.451282,
+                73.328857
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 3.4
+        },
+        {
+            "Point": [
+                19.451282,
+                73.328857
+            ],
+            "Data": "pH",
+            "Value": 7
+        },
+        {
+            "Point": [
+                18.645719,
+                74.056442
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 40
+        },
+        {
+            "Point": [
+                18.645719,
+                74.056442
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 5
+        },
+        {
+            "Point": [
+                18.645719,
+                74.056442
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.5
+        },
+        {
+            "Point": [
+                18.645719,
+                74.056442
+            ],
+            "Data": "pH",
+            "Value": 8.3
+        },
+        {
+            "Point": [
+                18.645719,
+                74.056442
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 5.2
+        },
+        {
+            "Point": [
+                18.831722,
+                74.387839
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 8
+        },
+        {
+            "Point": [
+                18.831722,
+                74.387839
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.6
+        },
+        {
+            "Point": [
+                18.831722,
+                74.387839
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 6
+        },
+        {
+            "Point": [
+                18.831722,
+                74.387839
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 5.4
+        },
+        {
+            "Point": [
+                18.831722,
+                74.387839
+            ],
+            "Data": "pH",
+            "Value": 8.3
+        },
+        {
+            "Point": [
+                16.773972,
+                73.582761
+            ],
+            "Data": "pH",
+            "Value": 8
+        },
+        {
+            "Point": [
+                16.773972,
+                73.582761
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                16.773972,
+                73.582761
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 6
+        },
+        {
+            "Point": [
+                16.773972,
+                73.582761
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                21.11316,
+                74.885213
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 4
+        },
+        {
+            "Point": [
+                21.11316,
+                74.885213
+            ],
+            "Data": "pH",
+            "Value": 7.6
+        },
+        {
+            "Point": [
+                21.11316,
+                74.885213
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.9
+        },
+        {
+            "Point": [
+                21.11316,
+                74.885213
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 4.2
+        },
+        {
+            "Point": [
+                18.081171,
+                73.424651
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 4
+        },
+        {
+            "Point": [
+                18.081171,
+                73.424651
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.6
+        },
+        {
+            "Point": [
+                18.081171,
+                73.424651
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                18.081171,
+                73.424651
+            ],
+            "Data": "pH",
+            "Value": 6.8
+        },
+        {
+            "Point": [
+                18.082172,
+                73.422625
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 6
+        },
+        {
+            "Point": [
+                18.082172,
+                73.422625
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                18.082172,
+                73.422625
+            ],
+            "Data": "pH",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                18.082172,
+                73.422625
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                18.076912,
+                73.420032
+            ],
+            "Data": "pH",
+            "Value": 6.7
+        },
+        {
+            "Point": [
+                18.076912,
+                73.420032
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 6
+        },
+        {
+            "Point": [
+                18.076912,
+                73.420032
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2
+        },
+        {
+            "Point": [
+                18.076912,
+                73.420032
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.1
+        },
+        {
+            "Point": [
+                18.065276,
+                73.397825
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.9
+        },
+        {
+            "Point": [
+                18.065276,
+                73.397825
+            ],
+            "Data": "pH",
+            "Value": 6.8
+        },
+        {
+            "Point": [
+                18.065276,
+                73.397825
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                18.065276,
+                73.397825
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 6
+        },
+        {
+            "Point": [
+                17.933739,
+                73.665091
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 4.9
+        },
+        {
+            "Point": [
+                17.933739,
+                73.665091
+            ],
+            "Data": "pH",
+            "Value": 8.4
+        },
+        {
+            "Point": [
+                17.933739,
+                73.665091
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 4
+        },
+        {
+            "Point": [
+                17.933739,
+                73.665091
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 5
+        },
+        {
+            "Point": [
+                17.692894,
+                74.050883
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 4
+        },
+        {
+            "Point": [
+                17.692894,
+                74.050883
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 5
+        },
+        {
+            "Point": [
+                17.692894,
+                74.050883
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 2
+        },
+        {
+            "Point": [
+                17.692894,
+                74.050883
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 5.8
+        },
+        {
+            "Point": [
+                17.692894,
+                74.050883
+            ],
+            "Data": "pH",
+            "Value": 8.1
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 63
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 4.2
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 7000
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 6
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 63
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 4.2
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 7000
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 6
+        },
+        {
+            "Point": [
+                12.967039,
+                77.337053
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                15.616728,
+                74.088381
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 0.4
+        },
+        {
+            "Point": [
+                15.616728,
+                74.088381
+            ],
+            "Data": "pH",
+            "Value": 6.69
+        },
+        {
+            "Point": [
+                15.616728,
+                74.088381
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 51
+        },
+        {
+            "Point": [
+                15.616728,
+                74.088381
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.9
+        },
+        {
+            "Point": [
+                15.616728,
+                74.088381
+            ],
+            "Data": "Total Coliform",
+            "Value": 13
+        },
+        {
+            "Point": [
+                15.616728,
+                74.088381
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.5
+        },
+        {
+            "Point": [
+                22.762517,
+                70.864837
+            ],
+            "Data": "pH",
+            "Value": 8.2
+        },
+        {
+            "Point": [
+                22.762517,
+                70.864837
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.3
+        },
+        {
+            "Point": [
+                22.762517,
+                70.864837
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 0.28
+        },
+        {
+            "Point": [
+                22.762517,
+                70.864837
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.8
+        },
+        {
+            "Point": [
+                22.762517,
+                70.864837
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 443
+        },
+        {
+            "Point": [
+                22.756175,
+                73.146486
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 0.45
+        },
+        {
+            "Point": [
+                22.756175,
+                73.146486
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.8
+        },
+        {
+            "Point": [
+                22.756175,
+                73.146486
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.3
+        },
+        {
+            "Point": [
+                22.756175,
+                73.146486
+            ],
+            "Data": "Boron - Dissolved",
+            "Value": 0.11
+        },
+        {
+            "Point": [
+                22.756175,
+                73.146486
+            ],
+            "Data": "pH",
+            "Value": 7.6
+        },
+        {
+            "Point": [
+                22.756175,
+                73.146486
+            ],
+            "Data": "Total Coliform",
+            "Value": 350
+        },
+        {
+            "Point": [
+                22.756175,
+                73.146486
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 396
+        },
+        {
+            "Point": [
+                10.791581,
+                76.651378
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.2
+        },
+        {
+            "Point": [
+                10.791581,
+                76.651378
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                10.791581,
+                76.651378
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                10.791581,
+                76.651378
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 150
+        },
+        {
+            "Point": [
+                10.791581,
+                76.651378
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.2
+        },
+        {
+            "Point": [
+                10.791581,
+                76.651378
+            ],
+            "Data": "pH",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                10.791581,
+                76.651378
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.8
+        },
+        {
+            "Point": [
+                10.791581,
+                76.651378
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 150
+        },
+        {
+            "Point": [
+                14.236122,
+                75.659356
+            ],
+            "Data": "pH",
+            "Value": 8.12
+        },
+        {
+            "Point": [
+                14.236122,
+                75.659356
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.3
+        },
+        {
+            "Point": [
+                14.236122,
+                75.659356
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                14.236122,
+                75.659356
+            ],
+            "Data": "pH",
+            "Value": 8.12
+        },
+        {
+            "Point": [
+                14.236122,
+                75.659356
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.3
+        },
+        {
+            "Point": [
+                14.236122,
+                75.659356
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                22.81225,
+                73.359778
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 4
+        },
+        {
+            "Point": [
+                22.81225,
+                73.359778
+            ],
+            "Data": "pH",
+            "Value": 7.5
+        },
+        {
+            "Point": [
+                22.81225,
+                73.359778
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 8.6
+        },
+        {
+            "Point": [
+                16.321964,
+                75.245115
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 2.8
+        },
+        {
+            "Point": [
+                16.321964,
+                75.245115
+            ],
+            "Data": "Faecal Streptococci",
+            "Value": 350
+        },
+        {
+            "Point": [
+                16.321964,
+                75.245115
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 540
+        },
+        {
+            "Point": [
+                16.321964,
+                75.245115
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 6.4
+        },
+        {
+            "Point": [
+                16.321964,
+                75.245115
+            ],
+            "Data": "pH",
+            "Value": 8.46
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 131
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Phenolphthalein Alkalinity",
+            "Value": 0
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Alkalinity",
+            "Value": 48.23
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Chloride - Dissolved",
+            "Value": 13.51
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Hardness - Calcium",
+            "Value": 39.88
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Potassium - Dissolved",
+            "Value": 1.6
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Sodium - Dissolved",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Turbidity",
+            "Value": 10
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Boron - Dissolved",
+            "Value": 0.03
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Trioxidocarbonate(2-)",
+            "Value": 0
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 680
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Nitrate and Nitrite",
+            "Value": 0.78
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Sulfate - Dissolved",
+            "Value": 3
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Dissolved Solids",
+            "Value": 76
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Water Temperature",
+            "Value": 22
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 135
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Calcium - Dissolved",
+            "Value": 15.98
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Chemical Oxygen Demand",
+            "Value": 7.88
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Hydrogencarbonate",
+            "Value": 58.79
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Nitrate",
+            "Value": 0.78
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Dissolved Reactive Phosphorus",
+            "Value": 0.01
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.39
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Fluoride - Dissolved",
+            "Value": 0.07
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Hardness - Total",
+            "Value": 55.83
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Nitrite",
+            "Value": 0.03
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Silica - Dissolved",
+            "Value": 10.71
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Alkalinity",
+            "Value": 7.58
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 0.8
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Iron - Dissolved",
+            "Value": 0
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Magnesium - Dissolved",
+            "Value": 3.88
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 0.09
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "pH",
+            "Value": 7.3
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Coliform",
+            "Value": 17000
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 131
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Phenolphthalein Alkalinity",
+            "Value": 0
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Alkalinity",
+            "Value": 48.23
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Chloride - Dissolved",
+            "Value": 13.51
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Hardness - Calcium",
+            "Value": 39.88
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Potassium - Dissolved",
+            "Value": 1.6
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Sodium - Dissolved",
+            "Value": 7.2
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Turbidity",
+            "Value": 10
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Boron - Dissolved",
+            "Value": 0.03
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Trioxidocarbonate(2-)",
+            "Value": 0
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 680
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Nitrate and Nitrite",
+            "Value": 0.78
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Sulfate - Dissolved",
+            "Value": 3
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Dissolved Solids",
+            "Value": 76
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Water Temperature",
+            "Value": 22
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 135
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Calcium - Dissolved",
+            "Value": 15.98
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Chemical Oxygen Demand",
+            "Value": 7.88
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Hydrogencarbonate",
+            "Value": 58.79
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Nitrate",
+            "Value": 0.78
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Dissolved Reactive Phosphorus",
+            "Value": 0.01
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.39
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Fluoride - Dissolved",
+            "Value": 0.07
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Hardness - Total",
+            "Value": 55.83
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Nitrite",
+            "Value": 0.03
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Silica - Dissolved",
+            "Value": 10.71
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Alkalinity",
+            "Value": 7.58
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 0.8
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Iron - Dissolved",
+            "Value": 0
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Magnesium - Dissolved",
+            "Value": 3.88
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 0.09
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "pH",
+            "Value": 7.3
+        },
+        {
+            "Point": [
+                11.57277778,
+                76.91916667
+            ],
+            "Data": "Total Coliform",
+            "Value": 17000
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Total Coliform",
+            "Value": 1300000
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Total Suspended Solids",
+            "Value": 0
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Silica - Dissolved",
+            "Value": 5.35
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Chemical Oxygen Demand",
+            "Value": 31
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Chloride - Dissolved",
+            "Value": 87.5
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 8.11
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 45000
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Hydrogencarbonate",
+            "Value": 180
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Sodium - Dissolved",
+            "Value": 98.4
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Nitrite",
+            "Value": 0.16
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "pH",
+            "Value": 8.34
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Total Dissolved Solids",
+            "Value": 632
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Boron - Dissolved",
+            "Value": 0.03
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Total Alkalinity",
+            "Value": 176.2
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Hardness - Total",
+            "Value": 15.7
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "pH",
+            "Value": 8.34
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Water Temperature",
+            "Value": 19
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7.4
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Trioxidocarbonate(2-)",
+            "Value": 15.7
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Potassium - Dissolved",
+            "Value": 7.5
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 2.08
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 1003
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Turbidity",
+            "Value": 54.5
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Sulfate - Dissolved",
+            "Value": 115.6
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Calcium - Dissolved",
+            "Value": 62.1
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Magnesium - Dissolved",
+            "Value": 11.9
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 1003
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Phenolphthalein Alkalinity",
+            "Value": 13.1
+        },
+        {
+            "Point": [
+                25.37944444,
+                76.14527778
+            ],
+            "Data": "Fluoride - Dissolved",
+            "Value": 0.41
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Chemical Oxygen Demand",
+            "Value": 29
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 757.8
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 757.8
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Magnesium - Dissolved",
+            "Value": 9.9
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Hydrogencarbonate",
+            "Value": 87.9
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Phenolphthalein Alkalinity",
+            "Value": 17
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Calcium - Dissolved",
+            "Value": 48.8
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Trioxidocarbonate(2-)",
+            "Value": 20.4
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Total Dissolved Solids",
+            "Value": 477
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Water Temperature",
+            "Value": 16.5
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 1.63
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Sodium - Dissolved",
+            "Value": 46.4
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Fluoride - Dissolved",
+            "Value": 0.39
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Chloride - Dissolved",
+            "Value": 58.8
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Silica - Dissolved",
+            "Value": 7.43
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Total Suspended Solids",
+            "Value": 0
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Nitrate and Nitrite",
+            "Value": 0
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Nitrite",
+            "Value": 0.02
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Boron - Dissolved",
+            "Value": 0.31
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Sulfate - Dissolved",
+            "Value": 65.1
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Turbidity",
+            "Value": 91.3
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "pH",
+            "Value": 8.54
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "pH",
+            "Value": 8.54
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Nitrate",
+            "Value": 0
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Potassium - Dissolved",
+            "Value": 4.9
+        },
+        {
+            "Point": [
+                25.85444444,
+                76.56916667
+            ],
+            "Data": "Total Alkalinity",
+            "Value": 107.2
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 4.85
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 3300
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Sodium - Dissolved",
+            "Value": 56.5
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Nitrite",
+            "Value": 0.06
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Nitrate and Nitrite",
+            "Value": 0.5
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "pH",
+            "Value": 8.45
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 627.4
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Turbidity",
+            "Value": 5.69
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Total Suspended Solids",
+            "Value": 0
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Chemical Oxygen Demand",
+            "Value": 20
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Trioxidocarbonate(2-)",
+            "Value": 12.2
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Fluoride - Dissolved",
+            "Value": 0.16
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Potassium - Dissolved",
+            "Value": 5.8
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Chloride - Dissolved",
+            "Value": 70.7
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Calcium - Dissolved",
+            "Value": 45.4
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 2.26
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Nitrate",
+            "Value": 0.5
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Water Temperature",
+            "Value": 21.6
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Total Dissolved Solids",
+            "Value": 395
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Sulfate - Dissolved",
+            "Value": 48.3
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Silica - Dissolved",
+            "Value": 6.79
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Total Alkalinity",
+            "Value": 106.2
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Hydrogencarbonate",
+            "Value": 103
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "pH",
+            "Value": 8.45
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Total Coliform",
+            "Value": 24000
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 627.4
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 9.05
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Boron - Dissolved",
+            "Value": 0.12
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Phenolphthalein Alkalinity",
+            "Value": 10.2
+        },
+        {
+            "Point": [
+                25.21555556,
+                76.24694444
+            ],
+            "Data": "Magnesium - Dissolved",
+            "Value": 5.8
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Total Suspended Solids",
+            "Value": 0
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Trioxidocarbonate(2-)",
+            "Value": 14.8
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Calcium - Dissolved",
+            "Value": 51.2
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Biochemical Oxygen Demand",
+            "Value": 1.11
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Fluoride - Dissolved",
+            "Value": 0.38
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Potassium - Dissolved",
+            "Value": 4.9
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Total Dissolved Solids",
+            "Value": 451
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 716.2
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Boron - Dissolved",
+            "Value": 0.25
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Fecal Coliform",
+            "Value": 200
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Magnesium - Dissolved",
+            "Value": 8.8
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Turbidity",
+            "Value": 18.06
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Water Temperature",
+            "Value": 19.1
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Total Coliform",
+            "Value": 1300
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Phenolphthalein Alkalinity",
+            "Value": 12.4
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Sodium - Dissolved",
+            "Value": 71.3
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "pH",
+            "Value": 8.38
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Sulfate - Dissolved",
+            "Value": 67.6
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Chemical Oxygen Demand",
+            "Value": 11
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Hydrogencarbonate",
+            "Value": 109
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Nitrate and Nitrite",
+            "Value": 0
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Silica - Dissolved",
+            "Value": 6.21
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Dissolved Oxygen",
+            "Value": 7
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Chloride - Dissolved",
+            "Value": 93.7
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Total Alkalinity",
+            "Value": 115.5
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Total Ammonia Nitrogen",
+            "Value": 2.72
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Nitrite",
+            "Value": 0.06
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Nitrate",
+            "Value": 0
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "pH",
+            "Value": 8.38
+        },
+        {
+            "Point": [
+                25.68111111,
+                76.48555556
+            ],
+            "Data": "Electrical Conductance",
+            "Value": 716.2
+        }
+    ]
+}
