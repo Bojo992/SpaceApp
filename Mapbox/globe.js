@@ -1,6 +1,9 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiYm9qbzk5MiIsImEiOiJjbG5mN29kODkwbTdjMmtxcDBkdGVpYWl1In0.UZXTKZjNuds0nnHJn-nF0A';
 
 const center = [-77.01866, 38.888];
+const center2 = [-76.888, 38.808];
+
+
 
 const map = new mapboxgl.Map({
     container: 'test',
@@ -10,20 +13,24 @@ const map = new mapboxgl.Map({
     center: center
 });
 
-new mapboxgl.Marker().setLngLat(center).addTo(map);
+// map.on('touchstart', () => {
+//     states.sideBarState = true;
+// });
 
-
-function toggleSidebar(id) {
-    const elem = document.getElementById(id);
-    // Add or remove the 'collapsed' CSS class from the sidebar element.
-    // Returns boolean "true" or "false" whether 'collapsed' is in the class list.
-    const collapsed = elem.classList.toggle('collapsed');
-    const padding = {};
-    // 'id' is 'right' or 'left'. When run at start, this object looks like: '{left: 300}';
-    padding[id] = collapsed ? 0 : 300; // 0 if collapsed, 300 px if not. This matches the width of the sidebars in the .sidebar CSS class.
-    // Use `map.easeTo()` with a padding option to adjust the map's center accounting for the position of sidebars.
-    map.easeTo({
-        padding: padding,
-        duration: 1000 // In ms. This matches the CSS transition duration property.
+new ClickableMarker().setLngLat(center).onClick(() => {
+    document.getElementById('right.dataBar').innerText("test");
+    map.flyTo({
+        center: center,
+        duration: 1000,
+        essential: true
     });
-}
+}).addTo(map);
+
+new ClickableMarker().setLngLat(center2).setWaterData("test").onClick((test) => {
+    // document.getElementsByClassName('sidebar-content').innerHTML(test.waterData);
+    map.flyTo({
+        center: center2,
+        duration: 1000,
+        essential: true
+    });
+}).addTo(map);

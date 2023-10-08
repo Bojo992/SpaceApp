@@ -6,7 +6,6 @@
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
-<!--    <script src="./Mapbox/globe.js"></script>-->
     <style>
         body { margin: 0; padding: 0; }
         #test { position: absolute; top: 0; bottom: 0; width: 100%; }
@@ -34,8 +33,6 @@
                 background-color: #4ea0da;
             }
         </style>
-<!--        <div id="map"></div>-->
-<!--        <button id="btn-spin">Stop spinning</button>-->
 
         <style>
             .rounded-rect {
@@ -52,11 +49,11 @@
             }
 
             .flex-center.left {
-                left: 0px;
+                left: 300px;
             }
 
             .flex-center.right {
-                right: 0px;
+                right: 300px;
             }
 
             .sidebar-content {
@@ -115,21 +112,20 @@
             <div id="left" class="sidebar flex-center left collapsed">
                 <div class="sidebar-content rounded-rect flex-center">
                     Left Sidebar
-                    <div class="sidebar-toggle rounded-rect left" onclick="toggleSidebar('left')">
-                        &rarr;
-                    </div>
+<!--                    <div class="sidebar-toggle rounded-rect left" onclick="toggleSidebar('left')">-->
+<!--                        &rarr;-->
+<!--                    </div>-->
                 </div>
             </div>
             <div id="right" class="sidebar flex-center right collapsed">
-                <div class="sidebar-content rounded-rect flex-center">
+                <div id="dataBar" class="sidebar-content rounded-rect flex-center">
                     Right Sidebar
-                    <div class="sidebar-toggle rounded-rect right" onclick="toggleSidebar('right')">
-                        &larr;
-                    </div>
                 </div>
             </div>
         </div>
 
+        <script src="Mapbox/Util.js"></script>
+        <script src="Mapbox/ClickableMarker.js"></script>
         <script src="./Mapbox/globe.js"></script>
     </body>
 </html>
