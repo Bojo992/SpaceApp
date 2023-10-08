@@ -1,9 +1,11 @@
 class ClickableMarker extends mapboxgl.Marker {
     // new method onClick, sets _handleClick to a function you pass in
-    waterData = "bojo";
+    waterData = "";
+    coordinates = [0,0];
 
-    setWaterData(parsedData){
+    setWaterData(parsedData, coordinates){
         this.waterData = parsedData;
+        this.coordinates = coordinates;
         return this;
     }
 
