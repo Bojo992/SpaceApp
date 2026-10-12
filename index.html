@@ -7,126 +7,89 @@
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
     <style>
-        body { margin: 0; padding: 0; }
-        #test { position: absolute; top: 0; bottom: 0; width: 100%; }
+        body { margin: 0; padding: 0; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
+        .sidebar {
+            position: absolute;
+            top: 16px;
+            bottom: 16px;
+            width: min(320px, 82vw);
+            z-index: 1;
+            transition: transform 0.6s;
+        }
+        .sidebar.left  { left: 16px; }
+        .sidebar.right { right: 16px; }
+        .left.collapsed  { transform: translateX(calc(-100% - 16px)); }
+        .right.collapsed { transform: translateX(calc(100% + 16px)); }
+
+        .sidebar-content {
+            max-height: 100%;
+            box-sizing: border-box;
+            overflow-y: auto;
+            padding: 18px 20px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 10px;
+            box-shadow: 0 0 50px -25px black;
+            color: #333;
+            font-size: 14px;
+            line-height: 1.45;
+        }
+
+        .sidebar-toggle {
+            position: absolute;
+            top: 12px;
+            width: 28px;
+            height: 28px;
+            border: none;
+            border-radius: 6px;
+            background: white;
+            box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3);
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .sidebar-toggle:hover { color: #0aa1cf; }
+        .sidebar-toggle.left  { right: -38px; }
+        .sidebar-toggle.right { left: -38px; }
+        .right.collapsed .sidebar-toggle { display: none; }
+
+        h2 { margin: 0 0 6px; font-size: 18px; color: #222; }
+        .coords { color: #777; margin-bottom: 10px; }
+        .note { color: #888; font-size: 12px; }
+        .sub { color: #999; font-size: 11px; font-weight: normal; }
+
+        .status { display: inline-block; padding: 3px 10px; border-radius: 12px; color: white; font-weight: bold; font-size: 12px; }
+        .status-good { background: #27ae60; }
+        .status-poor { background: #c0392b; }
+        .status-unknown { background: #7f8c8d; }
+        .failing { color: #c0392b; margin: 8px 0 0; }
+
+        table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+        td { padding: 6px 0; border-bottom: 1px solid #eee; vertical-align: top; }
+        td.num { text-align: right; font-weight: bold; white-space: nowrap; padding-left: 10px; }
+        .ok { color: #27ae60; }
+        .bad { color: #c0392b; }
+
+        .legend { list-style: none; padding: 0; margin: 12px 0; }
+        .legend li { display: flex; align-items: center; gap: 8px; margin: 6px 0; }
+        .legend b { margin-left: auto; }
+        .dot { width: 12px; height: 12px; border-radius: 50%; border: 1.5px solid white; box-shadow: 0 0 0 1px #ccc; }
     </style>
 </head>
-    <body>
-        <style>
-            #btn-spin {
-                font: bold 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-                background-color: #3386c0;
-                color: #fff;
-                position: absolute;
-                top: 20px;
-                left: 50%;
-                z-index: 1;
-                border: none;
-                width: 200px;
-                margin-left: -100px;
-                display: block;
-                cursor: pointer;
-                padding: 10px 20px;
-                border-radius: 3px;
-            }
-            #btn-spin:hover {
-                background-color: #4ea0da;
-            }
-        </style>
+<body>
+    <div id="map"></div>
 
-        <style>
-            .rounded-rect {
-                background: white;
-                border-radius: 10px;
-                box-shadow: 0 0 50px -25px black;
-            }
+    <div id="left" class="sidebar left collapsed">
+        <div id="summary" class="sidebar-content">Loading…</div>
+        <button class="sidebar-toggle left" onclick="toggleSidebar('left')" aria-label="Toggle summary">☰</button>
+    </div>
 
-            .flex-center {
-                position: absolute;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
+    <div id="right" class="sidebar right collapsed">
+        <div id="site-details" class="sidebar-content"></div>
+        <button class="sidebar-toggle right" onclick="setSidebar('right', false)" aria-label="Close site details">✕</button>
+    </div>
 
-            .flex-center.left {
-                left: 300px;
-            }
-
-            .flex-center.right {
-                right: 300px;
-            }
-
-            .sidebar-content {
-                position: absolute;
-                width: 95%;
-                height: 95%;
-                font-family: Arial, Helvetica, sans-serif;
-                font-size: 32px;
-                line-height: 45px;
-                color: #808080FF;
-            }
-
-            .sidebar-toggle {
-                position: absolute;
-                width: 1.3em;
-                height: 1.3em;
-                overflow: visible;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
-
-            .sidebar-toggle.left {
-                right: -1.5em;
-            }
-
-            .sidebar-toggle.right {
-                left: -1.5em;
-            }
-
-            .sidebar-toggle:hover {
-                color: #0aa1cf;
-                cursor: pointer;
-            }
-
-            .sidebar {
-                transition: transform 1s;
-                z-index: 1;
-                width: 300px;
-                height: 100%;
-            }
-
-            /*
-          The sidebar styling has them "expanded" by default, we use CSS transforms to push them offscreen
-          The toggleSidebar() function removes this class from the element in order to expand it.
-        */
-            .left.collapsed {
-                transform: translateX(-295px);
-            }
-
-            .right.collapsed {
-                transform: translateX(295px);
-            }
-        </style>
-
-        <div id="test">
-            <div id="left" class="sidebar flex-center left collapsed">
-                <div class="sidebar-content rounded-rect flex-center">
-                    Left Sidebar
-<!--                    <div class="sidebar-toggle rounded-rect left" onclick="toggleSidebar('left')">-->
-<!--                        &rarr;-->
-<!--                    </div>-->
-                </div>
-            </div>
-            <div id="right" class="sidebar flex-center right collapsed">
-                <div id="dataBar" class="sidebar-content rounded-rect flex-center">
-                    Right Sidebar
-                </div>
-            </div>
-        </div>
-
-        <script src="Mapbox/Util.js"></script>
-        <script src="Mapbox/ClickableMarker.js"></script>
-        <script src="./Mapbox/globe.js"></script>
-    </body>
+    <script src="DAL.js"></script>
+    <script src="Mapbox/globe.js"></script>
+</body>
 </html>
