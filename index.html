@@ -73,7 +73,27 @@
         .legend { list-style: none; padding: 0; margin: 12px 0; }
         .legend li { display: flex; align-items: center; gap: 8px; margin: 6px 0; }
         .legend b { margin-left: auto; }
-        .dot { width: 12px; height: 12px; border-radius: 50%; border: 1.5px solid white; box-shadow: 0 0 0 1px #ccc; }
+
+        .gradient-bar {
+            position: relative;
+            height: 10px;
+            border-radius: 5px;
+            margin: 12px 0 4px;
+            background: linear-gradient(to right, #1a9850 0%, #66bd63 30%, #fee08b 50%, #f46d43 75%, #a50026 100%);
+        }
+        .gradient-bar .marker {
+            position: absolute;
+            top: 50%;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 0 0 1px #555;
+            transform: translate(-50%, -50%);
+        }
+        .gradient-labels { display: flex; justify-content: space-between; font-size: 11px; color: #777; }
+        .score { margin: 12px 0 4px; }
+        .score-label { font-size: 13px; color: #555; }
     </style>
 </head>
 <body>
@@ -90,6 +110,7 @@
     </div>
 
     <script src="DAL.js"></script>
+    <script src="Mapbox/rivers.js"></script>
     <script src="Mapbox/globe.js"></script>
 </body>
 </html>

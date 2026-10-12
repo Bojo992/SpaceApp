@@ -13,6 +13,27 @@ const CRITERIA = {
     'Fecal Coliform':            { test: v => v <= 2500,            rule: '≤ 2500 MPN/100 mL' }
 };
 
+// How far each measure is from its limit: 0 = clean, 1 = right at the limit,
+// 2 = twice as bad as the limit allows. Coliform counts span orders of
+// magnitude, so they are compared on a log scale.
+const LIMIT_RATIO = {
+    'pH':                        v => Math.abs(v - 7.5) / 1.0,
+    'Dissolved Oxygen':          v => v <= 0 ? 4 : 5 / v,
+    'Biochemical Oxygen Demand': v => v / 3,
+    'Fecal Coliform':            v => Math.log10(Math.max(v, 1)) / Math.log10(2500)
+};
+
+// Pollution score from 0 (clean) to 1 (heavily polluted), set by the site's
+// worst key measure. 0.5 is exactly at the limit, so a site scores above 0.5
+// exactly when it fails the criteria.
+function pollutionScore(readings) {
+    const ratios = readings
+        .filter(r => LIMIT_RATIO[r.name])
+        .map(r => LIMIT_RATIO[r.name](r.mean));
+    if (!ratios.length) return null;
+    return Math.min(Math.max(...ratios) / 2, 1);
+}
+
 function groupIntoSites(rows) {
     const sites = new Map();
 
@@ -59,7 +80,8 @@ function groupIntoSites(rows) {
             coordinates: [site.lng, site.lat],
             readings,
             failing: judged.filter(r => !r.passes).map(r => r.name),
-            status
+            status,
+            score: pollutionScore(readings)
         };
     });
 }
@@ -72,4 +94,4 @@ async function loadWaterSites() {
 }
 
 // Lets the grouping logic be tested from Node without a browser.
-if (typeof module !== 'undefined') module.exports = { groupIntoSites, CRITERIA };
+if (typeof module !== 'undefined') module.exports = { groupIntoSites, pollutionScore, CRITERIA };
