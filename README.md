@@ -17,6 +17,8 @@ Rivers come from Natural Earth's 1:10m river centrelines, which only include maj
 
 ## Running it
 
+First copy `config.example.js` to `config.js` and put your Mapbox access token in it. `config.js` is gitignored, so the token stays out of the repo.
+
 The page loads `data.json` with `fetch`, so it has to be served over HTTP rather than opened as a file:
 
 ```sh
@@ -28,6 +30,7 @@ Then open http://localhost:8000.
 ## Files
 
 - `index.html` – page layout and styles
+- `config.example.js` – template for `config.js`, which holds the Mapbox token
 - `DAL.js` – loads `data.json`, groups the readings by site and rates each one
 - `Mapbox/rivers.js` – snaps sites to rivers and colours the rivers between them
 - `Mapbox/globe.js` – the globe, the map layers and the side panels

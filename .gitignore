@@ -1,0 +1,6 @@
+# Local secrets
+config.js
+
+# Leftover copy of the project and git bundles
+SpaceApp/
+*.bundle
